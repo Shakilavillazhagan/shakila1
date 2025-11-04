@@ -1,4 +1,5 @@
-step1
+Step 1: Install VirtualBox
 ![alt text](image.png)
-step2
+step 2:Download VirtualBox Platform Packages & VirtualBox Extension Pack
+![alt text](image-1.png)
 step3
