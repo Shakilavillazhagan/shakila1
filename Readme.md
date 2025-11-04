@@ -19,8 +19,6 @@
 ![alt text](image-9.png)
 ## Step 2: Download Centos from Url:https://drive.google.com/file/d/1QXdagFhT5kchGL-iLlDSkcN2RqIskLmX/view or Url:https://www.centos.org/download/
 ![alt text](image-10.png)
-## Step 2: Download Centos from Url:https://drive.google.com/file/d/1QXdagFhT5kchGL-iLlDSkcN2RqIskLmX/view or Url:https://www.centos.org/download/
-![alt text](image-11.png)
 ## Step 3: Extract the Centos Iso & Double Click the Iso file. The VM will automatically run the Centos.
 ![alt text](image-12.png)
 ![alt text](image-13.png)
