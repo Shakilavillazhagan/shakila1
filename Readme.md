@@ -31,3 +31,9 @@
 ![alt text](image-19.png)
 Set http values as shown in the Image
 ![alt text](image-20.png)
+## Click start
+![alt text](image-21.png)
+## Step 5: Enter "centos" for LocalHost login and password.
+![alt text](image-22.png)
+![alt text](image-23.png)
+## Step 7: Type the following commands
