@@ -51,7 +51,7 @@ sudo yum install httpd -y
 Start Apache (httpd) Service
 sudo systemctl start httpd
 ![alt text](image-27.png)
-##Press q to Exit Log
+## Press q to Exit Log
 Enable Apache to start on boot (Optional). This makes Apache start on every boot.
 sudo systemctl enable httpd
 Check status
