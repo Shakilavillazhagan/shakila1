@@ -37,3 +37,26 @@ Set http values as shown in the Image
 ![alt text](image-22.png)
 ![alt text](image-23.png)
 ## Step 7: Type the following commands
+ssh centos@localhost
+password centos
+![alt text](image-24.png)
+Start the Lab Environment
+![alt text](image-25.png)
+## Check if httpd is installed
+sudo systemctl status httpd
+![alt text](image-26.png)
+Press q to Exit Log
+## Install Httpd(If not installed)
+sudo yum install httpd -y
+Start Apache (httpd) Service
+sudo systemctl start httpd
+![alt text](image-27.png)
+##Press q to Exit Log
+Enable Apache to start on boot (Optional). This makes Apache start on every boot.
+sudo systemctl enable httpd
+Check status
+sudo systemctl status httpd
+![alt text](image-28.png)
+## Active: active (running)
+![alt text](image-29.png)
+![alt text](image-30.png)
